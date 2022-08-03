@@ -46,7 +46,7 @@ class MyDrawer extends StatelessWidget {
                 color: Colors.white,
               ),
               title: Text(
-                "Profile",
+                "Profile Info",
                 textScaleFactor: 1.2,
                 style: TextStyle(color: Colors.white),
               ),
