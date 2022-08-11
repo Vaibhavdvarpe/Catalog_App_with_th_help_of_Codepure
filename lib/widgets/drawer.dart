@@ -8,7 +8,7 @@ class MyDrawer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Drawer(
       child: Container(
-        color: Colors.deepPurple,
+        color: Colors.blueGrey,
         child: ListView(
           padding: EdgeInsets.zero,
           children: const [
